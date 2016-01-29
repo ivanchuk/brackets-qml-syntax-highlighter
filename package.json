@@ -1,0 +1,28 @@
+{
+  "name": "qml-syntax-highlighter",
+  "title": "QML Syntax Highlighter",
+  "version": "1.0.1",
+  "description": "Syntax highlighting support for QML files (.qml)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanchuk/brackets-qml-syntax-highlighter"
+  },
+  "keywords": [
+    "qml",
+    "syntax",
+    "highlighting",
+    "brackets"
+  ],
+  "author": "Ivan Perez <ivanchuk@gmail.com> (https://github.com/ivanchuk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanchuk/brackets-qml-syntax-highlighter/issues"
+  },
+  "homepage": "https://github.com/ivanchuk/brackets-qml-syntax-highlighter",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
